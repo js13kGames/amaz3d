@@ -1,4 +1,6 @@
 ---
+genres:
+  - puzzle
 post: https://github.com/gre/js13k-2017#mea-culpa
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
